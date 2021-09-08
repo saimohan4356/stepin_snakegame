@@ -28,4 +28,4 @@ In this mini project, the task is to implement a basic **snake game.**Below giv
 |HLR03\_LLR03|Creating different coordinates|
 |HLR04\_LLR04|Right,left,up,down moves|
 |HLR05\_LLR05|Generate score|
-
+[![GitHub issues](https://img.shields.io/github/issues/saimohan4356/stepin_snakegame)](https://github.com/saimohan4356/stepin_snakegame/issues)
