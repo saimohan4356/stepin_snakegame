@@ -29,4 +29,5 @@ In this mini project, the task is to implement a basic **snake game.**Below giv
 |HLR04\_LLR04|Right,left,up,down moves|
 |HLR05\_LLR05|Generate score|
 
+https://www.code-inspector.com/project/27826/status/svg
 
