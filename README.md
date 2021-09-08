@@ -33,3 +33,4 @@ In this mini project, the task is to implement a basic **snake game.**Below giv
 [![GitHub stars](https://img.shields.io/github/stars/saimohan4356/stepin_snakegame)](https://github.com/saimohan4356/stepin_snakegame/stargazers)
 [![GitHub license](https://img.shields.io/github/license/saimohan4356/stepin_snakegame)](https://github.com/saimohan4356/stepin_snakegame)
 [![GitHub license](https://img.shields.io/github/license/saimohan4356/stepin_snakegame)](https://github.com/saimohan4356/stepin_snakegame)
+https://www.code-inspector.com/project/27826/status/svg
