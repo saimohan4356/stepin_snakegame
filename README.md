@@ -1,5 +1,5 @@
 # stepin_snakegame
-Â»Â¿In this mini project, the task is to implement a basicÃ‚Â **snake game.**Below given some functionalities of this game:
+In this mini project, the task is to implement a basic **snake game.**Below given some functionalities of this game:
 
 - The snake is represented with a 0(zero) symbol.
 - The fruit is represented with an * (star) symbol.
