@@ -39,3 +39,5 @@ In this mini project, the task is to implement a basic **snake game.**Below giv
 
 
 https://www.code-inspector.com/project/27826/score/svg
+
+https://www.code-inspector.com/project/27826/score/svg
