@@ -31,3 +31,5 @@ In this mini project, the task is to implement a basic **snake game.**Below giv
 [![GitHub issues](https://img.shields.io/github/issues/saimohan4356/stepin_snakegame)](https://github.com/saimohan4356/stepin_snakegame/issues)
 [![GitHub forks](https://img.shields.io/github/forks/saimohan4356/stepin_snakegame)](https://github.com/saimohan4356/stepin_snakegame/network)
 [![GitHub stars](https://img.shields.io/github/stars/saimohan4356/stepin_snakegame)](https://github.com/saimohan4356/stepin_snakegame/stargazers)
+[![GitHub license](https://img.shields.io/github/license/saimohan4356/stepin_snakegame)](https://github.com/saimohan4356/stepin_snakegame)
+[![GitHub license](https://img.shields.io/github/license/saimohan4356/stepin_snakegame)](https://github.com/saimohan4356/stepin_snakegame)
