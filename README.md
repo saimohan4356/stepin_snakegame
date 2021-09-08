@@ -28,9 +28,14 @@ In this mini project, the task is to implement a basic **snake game.**Below giv
 |HLR03\_LLR03|Creating different coordinates|
 |HLR04\_LLR04|Right,left,up,down moves|
 |HLR05\_LLR05|Generate score|
+
+
 [![GitHub issues](https://img.shields.io/github/issues/saimohan4356/stepin_snakegame)](https://github.com/saimohan4356/stepin_snakegame/issues)
 [![GitHub forks](https://img.shields.io/github/forks/saimohan4356/stepin_snakegame)](https://github.com/saimohan4356/stepin_snakegame/network)
 [![GitHub stars](https://img.shields.io/github/stars/saimohan4356/stepin_snakegame)](https://github.com/saimohan4356/stepin_snakegame/stargazers)
 [![GitHub license](https://img.shields.io/github/license/saimohan4356/stepin_snakegame)](https://github.com/saimohan4356/stepin_snakegame)
 [![GitHub license](https://img.shields.io/github/license/saimohan4356/stepin_snakegame)](https://github.com/saimohan4356/stepin_snakegame)
-https://www.code-inspector.com/project/27826/status/svg
+
+
+
+https://www.code-inspector.com/project/27826/score/svg
